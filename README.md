@@ -28,4 +28,4 @@ O projeto consiste em desenvolver um decodificador de texto com um design respon
 </div>
 <br>
 <h3>Página do projeto:</h3>
-<a href="https://gustavo015.github.io/decodificador-texto/" target="_blank"><strong>Clique aqui!</strong></a>
+<a href="https://decodificador-de-texto-jhn.vercel.app/" target="_blank"><strong>Clique aqui!</strong></a>
